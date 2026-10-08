@@ -1,0 +1,4 @@
+step,rows_before,rows_after,rows_removed,reason
+1. Keep completed interviews (UF17 = 1),11774,11764,10,"Not at home / refused / no consent / other: no usable answers, weight 0"
+2. Keep chweight > 0,11764,11764,0,Zero weight = excluded from survey estimates
+"3-4. Recode windex5 = 0; add labels, age group, reg_status",11764,11764,0,Columns reduced from 456 to 22

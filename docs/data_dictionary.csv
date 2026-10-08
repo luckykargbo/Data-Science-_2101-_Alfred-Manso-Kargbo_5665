@@ -1,0 +1,23 @@
+column,type,source_variable,description,n_missing,n_unique,values_or_range
+raw_row,int64,row position in raw file,"Row number in the raw file, for traceability (not a survey ID)",0,11764,0 to 11773
+district_code,int64,HH7A,District code,0,14,23 (1140); 12 (989); 25 (979); 24 (947); 11 (833); 31 (830); 21 (822); 22 (804); 41 (804); 34 (791); 42 (729); 32 (715); 13 (697); 33 (684)
+district,str,HH7A,District name,0,14,Koinadugu (1140); Kenema (989); Tonkolili (979); Port Loko (947); Kailahun (833); Bo (830); Bombali (822); Kambia (804); Western Area Rural (804); Pujehun (791); Western Area Urban (729); Bonthe (715); Kono (697); Moyamba (684)
+region,str,HH7,"Region (North, South, East, West)",0,4,North (4692); South (3020); East (2519); West (1533)
+area,str,HH6,Urban or rural area,0,2,Rural (8403); Urban (3361)
+sex,str,HL4,Sex of child,0,2,Male (5893); Female (5871)
+age_months,int64,CAGE,Child age in completed months (0-59),0,60,0 to 59
+age_group,str,derived from CAGE,Age group in months,0,5,48-59 m (2440); 24-35 m (2373); 36-47 m (2370); 0-11 m (2292); 12-23 m (2289)
+birth_year,int64,UB1Y,Year of birth of child,0,6,2015 (2460); 2014 (2415); 2013 (2400); 2016 (2325); 2017 (1247); 2012 (917)
+wealth_code,int64,windex5,"Wealth index quintile code (1 = poorest, 5 = richest)",0,5,1 (3370); 2 (2918); 3 (2627); 4 (1613); 5 (1236)
+wealth_quintile,str,windex5,Wealth index quintile label,0,5,Poorest (3370); Second (2918); Middle (2627); Fourth (1613); Richest (1236)
+mother_education_code,int64,melevel,Mother's education level code,0,4,0 (7577); 2 (1561); 1 (1510); 3 (1116)
+mother_education,str,melevel,Mother's education level label,0,4,Pre-Primary Or None (7577); Lower Secondary (1561); Primary (1510); Upper Secondary+ (1116)
+BR1,int64,BR1,"Birth certificate: 1 seen, 2 not seen, 3 none, 8 DK, 9 no response",0,5,3 (5473); 1 (4047); 2 (2192); 8 (50); 9 (2)
+br1_label,str,BR1,Label for BR1,0,5,"No (5473); Yes, Seen (4047); Yes, Not Seen (2192); Dk (50); No Response (2)"
+BR2,float64,BR2,"Birth registered: 1 yes, 2 no, 8 DK, 9 no response; blank if not asked (skip pattern)",6239,4,1.0 (3266); 2.0 (2101); 8.0 (154); 9.0 (4)
+br2_label,str,BR2,Label for BR2; 'Not asked (skip pattern)' when BR2 is blank by design,0,5,Not asked (skip pattern) (6239); Yes (3266); No (2101); Dk (154); No Response (4)
+BR3,float64,BR3,"Caretaker knows how to register: 1 yes, 2 no, 9 no response; blank if not asked",9505,3,2.0 (1489); 1.0 (760); 9.0 (10)
+br3_label,str,BR3,Label for BR3; 'Not asked (skip pattern)' when blank by design,0,4,Not asked (skip pattern) (9505); No (1489); Yes (760); No Response (10)
+reg_status,str,"derived from BR1, BR2",Registered / Not registered / Unknown (SDG 16.9.1-style definition),0,3,Registered (9505); Not registered (2101); Unknown (158)
+reg_binary,float64,derived from reg_status,"1 registered, 0 not registered, blank if Unknown",158,2,1.0 (9505); 0.0 (2101)
+chweight,float64,chweight,Sample weight for children under 5,0,598,0.1511532437590454 to 5.62088249498745

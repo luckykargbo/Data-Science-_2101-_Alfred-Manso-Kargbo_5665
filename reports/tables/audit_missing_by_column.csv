@@ -1,0 +1,457 @@
+column,label,dtype,pct_missing
+HH1,Cluster number,numeric,0.0
+HH2,Household number,numeric,0.0
+LN,Line number,numeric,0.0
+UF1,Cluster number,numeric,0.0
+UF2,Household number,numeric,0.0
+UFINT,Interviewer number,numeric,0.0
+UF3,Child's line number,numeric,0.0
+UF4,Mother / Caretaker's line number,numeric,0.0
+UF5,Interviewer number,numeric,0.0
+UF6,Supervisor's number,numeric,0.0
+UF7D,Day of interview,numeric,0.0
+UF7M,Month of interview,numeric,0.0
+UF7Y,Year of interview,numeric,0.0
+UF9,Household interviewer,numeric,0.0
+UF10,Consent,numeric,0.0
+UF17,Result of interview for children under 5,numeric,0.0
+UF8H,Start of interview - Hour,numeric,0.0
+UF8M,Start of interview - Minutes,numeric,0.0
+UF11H,End of interview - Hour,numeric,0.1
+UF11M,End of interview - Minutes,numeric,0.1
+UF12,Language of the questionnaire,numeric,0.1
+UF13,Language of the interview,numeric,0.1
+UF14,Native language of the respondent,numeric,0.1
+UF15,Translator used,numeric,0.1
+UFHINT,Household interviewer,numeric,0.0
+UB1D,Day of birth of child,numeric,0.1
+UB1M,Month of birth of child,numeric,0.1
+UB1Y,Year of birth of child,numeric,0.1
+UB2,Age of child,numeric,0.1
+UB6,Ever attended early childhood education programme,numeric,100.0
+UB7,Attended early childhood education programme anytime since the beginning of current school year,numeric,100.0
+UB8,Currently attending early childhood education programme,numeric,96.0
+UB9,Covered by any health insurance,numeric,0.1
+UB10A,Health insurance - Mutual-health organization / Community-based health insurance,text,98.8
+UB10B,Health insurance - Health insurance through employer,text,98.7
+UB10C,Health insurance - Social security,text,99.8
+UB10D,Health insurance - Other privately purchased commercial health insurance,text,100.0
+UB10X,Health insurance - Other,text,98.9
+UB10NR,Health insurance - No response,text,100.0
+BR1,Birth certificate,numeric,0.1
+BR2,Birth registered,numeric,53.1
+BR3,Know how to register birth,numeric,80.8
+EC1,Number of children's books or picture books for child,numeric,0.1
+EC2A,Homemade toys,numeric,0.1
+EC2B,Toys from shops,numeric,0.1
+EC2C,Household objects or outside objects,numeric,0.1
+EC3A,Days left alone for more than one hour,numeric,0.1
+EC3B,"Days left in the care of another child, that is someone less than 10 years old, for more than one hour",numeric,0.1
+EC5AA,Read books - Mother,text,95.3
+EC5AB,Read books - Father,text,96.9
+EC5AX,Read books - Other,text,97.8
+EC5AY,Read books - No one,text,67.7
+EC5ANR,Read books - No response,text,99.9
+EC5BA,Tell stories - Mother,text,90.2
+EC5BB,Tell stories - Father,text,95.1
+EC5BX,Tell stories - Other,text,97.9
+EC5BY,Tell stories - No one,text,72.8
+EC5BNR,Tell stories - No response,text,99.9
+EC5CA,Sang songs - Mother,text,85.4
+EC5CB,Sang songs - Father,text,95.5
+EC5CX,Sang songs - Other,text,97.4
+EC5CY,Sang songs - No one,text,77.7
+EC5CNR,Sang songs - No response,text,100.0
+EC5DA,Took outside - Mother,text,85.8
+EC5DB,Took outside - Father,text,91.0
+EC5DX,Took outside - Other,text,96.7
+EC5DY,Took outside - No one,text,80.1
+EC5DNR,Took outside - No response,text,99.9
+EC5EA,Played with - Mother,text,82.8
+EC5EB,Played with - Father,text,90.6
+EC5EX,Played with - Other,text,93.9
+EC5EY,Played with - No one,text,83.1
+EC5ENR,Played with - No response,text,100.0
+EC5FA,Named/counted - Mother,text,95.4
+EC5FB,Named/counted - Father,text,97.0
+EC5FX,Named/counted - Other,text,98.1
+EC5FY,Named/counted - No one,text,67.4
+EC5FNR,Named/counted - No response,text,99.9
+EC6,Child identifies at least ten letters of the alphabet,numeric,59.8
+EC7,"Child reads at least four simple, popular words",numeric,59.8
+EC8,Child knows name and recognizes symbol of all numbers from 1-10,numeric,59.8
+EC9,Child able to pick up small object with 2 fingers,numeric,59.8
+EC10,Child sometimes too sick to play,numeric,59.8
+EC11,Child follows simple directions,numeric,59.8
+EC12,Child able to do something independently,numeric,59.8
+EC13,Child gets along well with other children,numeric,59.8
+EC14,"Child kicks, bites or hits other children or adults",numeric,59.8
+EC15,Child gets distracted easily,numeric,59.8
+UCD2A,Took away privileges,numeric,20.1
+UCD2B,Explained why behaviour was wrong,numeric,20.1
+UCD2C,Shook child,numeric,20.1
+UCD2D,"Shouted, yelled or screamed at child",numeric,20.1
+UCD2E,Gave child something else to do,numeric,20.1
+UCD2F,"Spanked, hit or slapped child on bottom with bare hand",numeric,20.1
+UCD2G,"Hit child on the bottom or elsewhere with belt, brush, stick, etc.",numeric,20.1
+UCD2H,"Called child dumb, lazy or another name",numeric,20.1
+UCD2I,"Hit or slapped child on the face, head or ears",numeric,20.1
+UCD2J,"Hit or slapped child on the hand, arm or leg",numeric,20.1
+UCD2K,Beat child up as hard as one could,numeric,20.1
+UCD3,Child needs to be physically punished to be brought up properly,numeric,20.1
+UCF2,Child wear glasses,numeric,39.6
+UCF3,Child uses hearing aid,numeric,39.6
+UCF4,Child uses any equipment or receive assistance for walking,numeric,39.6
+UCF7,Child has difficulty seeing,numeric,39.6
+UCF9,Child has difficulty hearing sounds like people voices or music,numeric,39.6
+UCF11,Without using equipment or assistance child has difficulty walking,numeric,98.7
+UCF12,When using equipment or assistance child has difficulty walking,numeric,98.7
+UCF13,"Compared with children of the same age, child has difficulty walking",numeric,40.9
+UCF14,"Compared with children of the same age, child has difficulty picking upsmall objects with his/her hand",numeric,39.6
+UCF15,Child has difficulty understanding parent/caretaker,numeric,39.6
+UCF16,Child has difficulty being understood by parent/caretaker when speaks,numeric,39.6
+UCF17,"Compared with children of the same age, child has difficulty learning things",numeric,39.6
+UCF18,"Compared with children of the same age, child has difficulty playing",numeric,39.6
+UCF19,"Compared with children of the same age, how much child kick, bite or hit other children or adults",numeric,39.6
+BD2,Child ever been breastfed,numeric,40.3
+BD3,Child still being breastfed,numeric,42.5
+BD4,Child drank anything from a bottle with a nipple yesterday,numeric,40.3
+BD5,Child drank ORS yesterday,numeric,40.3
+BD6,Child drank or ate vitamin or mineral supplements yesterday,numeric,40.3
+BD7A,Child drank plain water yesterday,numeric,40.3
+BD7B,Child drank juice or juice drinks yesterday,numeric,40.3
+BD7C,Child drank clear broth / watery soup yesterday,numeric,40.3
+BD7D,Child drank infant formula yesterday,numeric,40.3
+BD7D1,Times child drank infant formula,numeric,96.5
+BD7E,Child drank milk yesterday,numeric,40.3
+BD7E1,Times child drank milk,numeric,94.8
+BD7X,Child drank any other liquid yesterday,numeric,40.3
+BD8A,Child drank or ate yogurt yesterday,numeric,0.1
+BD8A1,Times drank or ate yogurt,numeric,98.1
+BD8B,"Child ate fortified baby food (gerber, hero, cerelac, nestum, etc.) yesterday",numeric,0.1
+BD8C,Child ate foods made from grains yesterday,numeric,0.1
+BD8D,"Child ate pumpkin, carrots, squash etc. yesterday",numeric,0.1
+BD8E,"Child ate white potatoes, white yams, manioc, cassava etc. yesterday",numeric,0.1
+BD8F,Child ate green leafy vegetables yesterday,numeric,0.1
+BD8G,"Child ate ripe mangoes, papayas yesterday",numeric,0.1
+BD8H,Child ate other fruits or vegetables yesterday,numeric,0.1
+BD8I,"Child ate liver, kidney, heart or other organ meat yesterday",numeric,0.1
+BD8J,"Child ate meat, such as beef, pork, lamb, goat, chicken, duck yesterday",numeric,0.1
+BD8K,Child ate eggs yesterday,numeric,0.1
+BD8L,Child ate fresh or dried fish or shellfish yesterday,numeric,0.1
+BD8M,"Child ate beans, peas, lentils or nuts or any food made from these yesterday",numeric,0.1
+BD8N,Child ate cheese or other food made from milk yesterday,numeric,0.1
+BD8X,"Child ate other solid, semi-solid or soft food yesterday",numeric,0.1
+BD9,Times child ate solid or semi-solid food,numeric,12.5
+BD8DUMMY,Dummy for BD8 explanation,numeric,0.1
+IM2,Vaccination card for child,numeric,0.1
+IM3,Ever had vaccination card,numeric,74.1
+IM5,Card - document seen,numeric,23.2
+IM6BD,Day of BCG immunization,numeric,30.7
+IM6BM,Month of BCG immunization,numeric,33.2
+IM6BY,Year of BCG immunization,numeric,33.2
+IM6P0D,Day of Polio (OPV) (at birth) immunization,numeric,30.7
+IM6P0M,Month of Polio (OPV) (at birth) immunization,numeric,33.5
+IM6P0Y,Year of Polio (OPV) (at birth) immunization,numeric,33.5
+IM6P1D,Day of Polio1 (OPV) immunization,numeric,30.7
+IM6P1M,Month of Polio1 (OPV) immunization,numeric,36.9
+IM6P1Y,Year of Polio1 (OPV) immunization,numeric,36.9
+IM6P2D,Day of Polio2 (OPV) immunization,numeric,30.7
+IM6P2M,Month of Polio2 (OPV) immunization,numeric,40.6
+IM6P2Y,Year of Polio2 (OPV) immunization,numeric,40.6
+IM6P3D,Day of Polio3 (OPV) immunization,numeric,30.7
+IM6P3M,Month of Polio3 (OPV) immunization,numeric,44.7
+IM6P3Y,Year of Polio3 (OPV) immunization,numeric,44.7
+IM6PENTA1D,Day of Pentavalent (DPTHibHepB) 1 immunization,numeric,30.7
+IM6PENTA1M,Month of Pentavalent (DPTHibHepB) 1 immunization,numeric,36.8
+IM6PENTA1Y,Year of Pentavalent (DPTHibHepB) 1 immunization,numeric,36.8
+IM6PENTA2D,Day of Pentavalent (DPTHibHepB) 2 immunization,numeric,30.7
+IM6PENTA2M,Month of Pentavalent (DPTHibHepB) 2 immunization,numeric,40.5
+IM6PENTA2Y,Year of Pentavalent (DPTHibHepB) 2 immunization,numeric,40.5
+IM6PENTA3D,Day of Pentavalent (DPTHibHepB) 3 immunization,numeric,30.7
+IM6PENTA3M,Month of Pentavalent (DPTHibHepB) 3 immunization,numeric,44.7
+IM6PENTA3Y,Year of Pentavalent (DPTHibHepB) 3 immunization,numeric,44.7
+IM6PCV1D,Day of Pneumococcal (Conjugate) 1 immunization,numeric,30.7
+IM6PCV1M,Month of Pneumococcal (Conjugate) 1 immunization,numeric,36.9
+IM6PCV1Y,Year of Pneumococcal (Conjugate) 1 immunization,numeric,36.9
+IM6PCV2D,Day of Pneumococcal (Conjugate) 2 immunization,numeric,30.7
+IM6PCV2M,Month of Pneumococcal (Conjugate) 2 immunization,numeric,40.6
+IM6PCV2Y,Year of Pneumococcal (Conjugate) 2 immunization,numeric,40.6
+IM6PCV3D,Day of Pneumococcal (Conjugate) 3 immunization,numeric,30.7
+IM6PCV3M,Month of Pneumococcal (Conjugate) 3 immunization,numeric,44.8
+IM6PCV3Y,Year of Pneumococcal (Conjugate) 3 immunization,numeric,44.8
+IM6R1D,Day of Rotavirus 1 immunization,numeric,30.7
+IM6R1M,Month of Rotavirus 1 immunization,numeric,37.3
+IM6R1Y,Year of Rotavirus 1 immunization,numeric,37.3
+IM6R2D,Day of Rotavirus 2 immunization,numeric,30.7
+IM6R2M,Month of Rotavirus 2 immunization,numeric,41.0
+IM6R2Y,Year of Rotavirus 2 immunization,numeric,41.0
+IM6MD,Day of Measles immunization,numeric,30.7
+IM6MM,Month of Measles immunization,numeric,54.0
+IM6MY,Year of Measles immunization,numeric,54.0
+IM6YD,Day of Yellow Fever immunization,numeric,30.7
+IM6YM,Month of Yellow Fever immunization,numeric,54.0
+IM6YY,Year of Yellow Fever immunization,numeric,54.0
+IM8A,"Participate in campaign, national immunization day A",numeric,79.2
+IM8B,"Participate in campaign, national immunization day B",numeric,79.2
+IM8C,"Participate in campaign, national immunization day C",numeric,79.2
+IM8D,"Participate in campaign, national immunization day D",numeric,79.2
+IM8E,"Participate in campaign, national immunization day E",numeric,79.2
+IM8F,"Participate in campaign, national immunization day F",numeric,79.2
+IM9,"Child received any other vaccinations during campaigns, immunization days or child health days",numeric,79.2
+IM11,Child ever received any vaccinations,numeric,69.4
+IM12A,"Participate in campaign, national immunization day A",numeric,69.4
+IM12B,"Participate in campaign, national immunization day B",numeric,69.4
+IM12C,"Participate in campaign, national immunization day C",numeric,69.4
+IM12D,"Participate in campaign, national immunization day D",numeric,69.4
+IM12E,"Participate in campaign, national immunization day E",numeric,69.4
+IM12F,"Participate in campaign, national immunization day F",numeric,69.4
+IM14,Child ever given BCG vaccination,numeric,74.8
+IM15,Hepatitis B vaccination received within 24 hours after birth,numeric,74.8
+IM16,Child ever given Polio drops,numeric,74.8
+IM17,Polio drops in the first two weeks after birth,numeric,76.2
+IM18,Times received Polio drops,numeric,76.2
+IM20,Child ever given Pentavelent vaccination,numeric,74.8
+IM21,Times received Pentavelent vaccination,numeric,77.5
+IM22,Child ever given Pneumococcal Conjugate vaccination,numeric,74.8
+IM23,Times received Pneumococcal Conjugate vaccination,numeric,78.4
+IM24,Child ever given Rotavirus vaccination,numeric,74.8
+IM25,Times received Rotavirus vaccination,numeric,77.9
+IM26,Child ever given Measles vaccination,numeric,74.8
+IM27,Child ever given Yellow Fever vaccination,numeric,74.8
+CA1,Child had diarrhoea in last 2 weeks,numeric,0.1
+CA3,Child drank less or more during diarrhoea,numeric,92.3
+CA4,Child ate less or more during diarrhoea,numeric,92.3
+CA5,Sought advice or treatment for the diarrhoea from any source,numeric,92.3
+CA6A,Place sought care: (public sector) Government hospital,text,98.9
+CA6B,Place sought care: (public sector) Government health centre,text,98.0
+CA6C,Place sought care: (public sector) Government health post,text,98.5
+CA6D,Place sought care: Community health worker,text,99.7
+CA6E,Place sought care: (public sector) Mobile / Outreach clinic,text,99.9
+CA6H,Place sought care: Other public,text,100.0
+CA6I,Place sought care: Private hospital / clinic,text,99.9
+CA6J,Place sought care: Private physician,text,100.0
+CA6K,Place sought care: Private pharmacy,text,99.8
+CA6L,Place sought care: Community health worker (Non Government),text,99.9
+CA6M,Place sought care: Mobile clinic,text,99.9
+CA6O,Place sought care: Other private medical,text,100.0
+CA6P,Place sought care: Relative / Friend,text,99.8
+CA6Q,Place sought care: Shop / Market / Street,text,99.8
+CA6R,Place sought care: Traditional practitioner,text,99.8
+CA6X,Place sought care: Other,text,99.9
+CA6NR,Place sought care: Missing,text,100.0
+CA7A,Child given ORS packet solution,numeric,92.3
+CA7B,Child given ORS fluid,numeric,92.3
+CA7C,Child given zinc tablets or syrup,numeric,92.3
+CA7D,Child given government-recommended hommade fluid,numeric,92.3
+CA9A,Place got ORS: (public sector) Government hospital,text,99.1
+CA9B,Place got ORS: (public sector) Government health centre,text,98.2
+CA9C,Place got ORS: (public sector) Government health post,text,98.6
+CA9D,Place got ORS: (public sector) Communityh health worker,text,99.6
+CA9E,Place got ORS: (public sector) Mobile / Outreach clinic,text,99.9
+CA9H,Place got ORS: Other public,text,99.9
+CA9I,Place got ORS: Private hospital / clinic,text,99.9
+CA9J,Place got ORS: Private physician,text,100.0
+CA9K,Place got ORS: Private pharmacy,text,99.4
+CA9L,Place got ORS: Community health worker (Non Government),text,99.9
+CA9M,Place got ORS: Mobile clinic,text,99.9
+CA9O,Place got ORS: Other private medical,text,100.0
+CA9P,Place got ORS: Relative / Friend,text,99.8
+CA9Q,Place got ORS: Shop / Market / Street,text,99.5
+CA9R,Place got ORS: Traditional practitioner,text,100.0
+CA9X,Place got ORS: Other,text,99.9
+CA9Z,Place got ORS: DK /Don't remember,text,100.0
+CA9NR,Place got ORS: Missing,text,100.0
+CA11A,Place got ORS: (public sector) Government hospital,text,99.3
+CA11B,Place got ORS: (public sector) Government health centre,text,98.7
+CA11C,Place got ORS: (public sector) Government health post,text,99.0
+CA11D,Place got ORS: (public sector) Communityh health worker,text,99.8
+CA11E,Place got ORS: (public sector) Mobile / Outreach clinic,text,100.0
+CA11H,Place got ORS: Other public,text,100.0
+CA11I,Place got ORS: Private hospital / clinic,text,99.9
+CA11J,Place got ORS: Private physician,text,100.0
+CA11K,Place got ORS: Private pharmacy,text,99.8
+CA11L,Place got ORS: Community health worker (Non Government),text,99.9
+CA11M,Place got ORS: Mobile clinic,text,99.9
+CA11O,Place got ORS: Other private medical,text,100.0
+CA11P,Place got ORS: Relative / Friend,text,99.9
+CA11Q,Place got ORS: Shop / Market / Street,text,99.8
+CA11R,Place got ORS: Traditional practitioner,text,100.0
+CA11X,Place got ORS: Other,text,100.0
+CA11Z,Place got ORS: DK /Don't remember,text,100.0
+CA11NR,Place got ORS: Missing,text,100.0
+CA12,Anything else given to treat the diarrhoea,numeric,92.3
+CA13A,Other treatment: (Pill or Syrup) Antibiotic,text,99.1
+CA13B,Other treatment (pill or syrup): Antimotility (anti-diarrhoea),text,99.1
+CA13G,Other treatment (pill or syrup): Other pill or syrup,text,99.5
+CA13H,Other treatment (pill or syrup): Unknown pill or syrup,text,99.6
+CA13L,Other treatment (injection): Antibiotic,text,99.8
+CA13M,Other treatment (injection): Non-antibiotic,text,100.0
+CA13N,Other treatment (injection): Unknown injection,text,99.8
+CA13O,Other treatment: Intravenous (IV),text,99.9
+CA13Q,Other treatment: Home remedy / Herbal medicine,text,99.5
+CA13X,Other treatment: Other,text,99.4
+CA13NR,Other treatment: Missing,text,100.0
+CA14,Child ill with fever in last 2 weeks,numeric,0.1
+CA15,Blood taken from finger or heel for testing,numeric,79.4
+CA16,Child ill with cough in last 2 weeks,numeric,0.1
+CA17,Difficulty breathing during illness with cough,numeric,0.1
+CA18,Symptoms due to problem in chest or blocked nose,numeric,93.0
+CA20,Sought advice or treatment for illness,numeric,77.5
+CA21A,Place sought care: (public sector) Government hospital,text,97.2
+CA21B,Place sought care: (public sector) Government health centre,text,94.7
+CA21C,Place sought care: (public sector) Government health post,text,95.4
+CA21D,Place sought care: (public sector) Community health worker (Non Government),text,99.1
+CA21E,Place sought care: (public sector) Mobile / Outreach clinic,text,99.7
+CA21H,Place sought care: Other public,text,99.9
+CA21I,Place sought care: Private hospital / clinic,text,99.5
+CA21J,Place sought care: Private physician,text,99.8
+CA21K,Place sought care: Private pharmacy,text,99.3
+CA21L,Place sought care: Community health worker (Non Government),text,99.9
+CA21M,Place sought care: Mobile clinic,text,99.8
+CA21O,Place sought care: Other private medical,text,99.9
+CA21P,Place sought care: Relative / Friend,text,99.6
+CA21Q,Place sought care: Shop / Market / Street,text,99.4
+CA21R,Place sought care: Traditional practitioner,text,99.7
+CA21X,Place sought care: Other,text,99.8
+CA21NR,Place sought care: Missing,text,100.0
+CA22,Given medicine to treat this illness,numeric,77.5
+CA23A,Medicine: Anti-Malarials: Artemisinin combination therapy (ACT),text,96.8
+CA23B,Medicine: Anti-Malarials: SP / Fansidar,text,96.8
+CA23C,Medicine: Anti-Malarials: Chloroquine,text,96.8
+CA23D,Medicine: Anti-Malarials: Amodiaquine,text,96.8
+CA23E,Medicine: Anti-Malarials: Quinine pills,text,96.8
+CA23F,Medicine: Anti-Malarials: Quinine injection / IV,text,96.8
+CA23G,Medicine: Anti-Malarials: Artesunate rectal,text,96.8
+CA23H,Medicine: Anti-Malarials: Artesunate injection / IV,text,96.8
+CA23K,Medicine: Anti-Malarials: Other anti-malarial,text,96.8
+CA23L,Medicine: Antibiotics: Amoxicillin,text,96.8
+CA23M,Medicine: Antibiotics: Cotrimoxazole,text,98.1
+CA23N,Medicine: Antibiotics: Other antibiotic pill / syrup,text,99.3
+CA23O,Medicine: Antibiotics: Other antibiotic injection / IV,text,97.5
+CA23R,Medicine: Paracetamol / Panadol / Acetaminophen,text,99.8
+CA23S,Medicine: Aspirin,text,99.6
+CA23T,Medicine: Ibupropfen,text,99.3
+CA23X,Medicine: Other,text,99.6
+CA23Z,Medicine: DK,text,98.5
+CA23NR,Medicine: Missing,text,95.4
+CA25A,Place got antibiotics:(public sector) Government hospital,text,98.5
+CA25B,Place got antibiotics: (public sector) Government health centre,text,97.2
+CA25C,Place got antibiotics: (public sector) Government health post,text,98.0
+CA25D,Place got antibiotics: (public sector) Community health worker (Non Government),text,99.7
+CA25E,Place got antibiotics: (public sector) Mobile / Outreach clinic,text,99.8
+CA25H,Place got antibiotics: Other public,text,99.9
+CA25I,Place got antibiotics: Private hospital / clinic,text,99.7
+CA25J,Place got antibiotics: Private physician,text,99.9
+CA25K,Place got antibiotics: Private pharmacy,text,99.2
+CA25L,Place got antibiotics: Community health worker (Non Government),text,99.9
+CA25M,Place got antibiotics: Mobile clinic,text,99.9
+CA25O,Place got antibiotics: Other private medical,text,100.0
+CA25P,Place got antibiotics: Relative / Friend,text,99.8
+CA25Q,Place got antibiotics: Shop / Market / Street,text,99.4
+CA25R,Place got antibiotics: Traditional practitioner,text,100.0
+CA25X,Place got antibiotics: Other,text,100.0
+CA25Z,Place got antibiotics: DK / Don't remember,text,100.0
+CA25NR,Place got antibiotics: Missing,text,100.0
+CA27A,Place got anti-malarials:(public sector) Government hospital,text,98.4
+CA27B,Place got anti-malarials: (public sector) Government health centre,text,96.7
+CA27C,Place got anti-malarials: (public sector) Government health post,text,96.8
+CA27D,Place got anti-malarials: (public sector) Community health worker (Non Government),text,99.6
+CA27E,Place got anti-malarials: (public sector) Mobile / Outreach clinic,text,99.8
+CA27H,Place got anti-malarials: Other public,text,99.9
+CA27I,Place got anti-malarials: Private hospital / clinic,text,99.7
+CA27J,Place got anti-malarials: Private physician,text,99.9
+CA27K,Place got anti-malarials: Private pharmacy,text,99.4
+CA27L,Place got anti-malarials: Community health worker (Non Government),text,99.9
+CA27M,Place got anti-malarials: Mobile clinic,text,99.9
+CA27O,Place got anti-malarials: Other private medical,text,99.9
+CA27P,Place got anti-malarials: Relative / Friend,text,99.9
+CA27Q,Place got anti-malarials: Shop / Market / Street,text,99.8
+CA27R,Place got anti-malarials: Traditional practitioner,text,100.0
+CA27X,Place got anti-malarials: Other,text,99.9
+CA27Z,Place got anti-malarials: DK / Don't remember,text,99.9
+CA27NR,Place got anti-malarials: Missing,text,100.0
+CA29,Got medicine after fever started,numeric,89.8
+CA31,What was done to dispose of the stools,numeric,40.3
+AN1,Cluster number,numeric,0.2
+AN2,Household number,numeric,0.2
+AN3,Child's line number,numeric,0.2
+AN4,Age of child,numeric,0.2
+AN5,Mother's line number,numeric,0.2
+AN6,Interviewer number,numeric,0.2
+AN7,Measurer's identification code,numeric,0.2
+AN8,Child's weight (kilograms),numeric,0.2
+AN9,Child undressed to the minimum,numeric,0.3
+AN11,Child's length or height (centimetres),numeric,0.2
+AN12,Child measured lying or standing,numeric,0.3
+AN13D,Day of measurement,numeric,0.2
+AN13M,Month of measurement,numeric,0.2
+AN13Y,Year of measurement,numeric,0.2
+HAP,Height for age percentile NCHS,numeric,0.1
+HAZ,Height for age z-score NCHS,numeric,0.1
+HAM,Height for age percent of reference median NCHS,numeric,0.1
+WAP,Weight for age percentile NCHS,numeric,0.1
+WAZ,Weight for age z-score NCHS,numeric,0.1
+WAM,Weight for age percent of reference median NCHS,numeric,0.1
+WHP,Weight for height percentile NCHS,numeric,0.1
+WHZ,Weight for height z-score NCHS,numeric,0.1
+WHM,Weight for height percent of reference median NCHS,numeric,0.1
+FLAG,Flag for anthropometric indicators,numeric,0.1
+BMI,Body Mass Index WHO,numeric,0.1
+ZBMI,Body Mass Index z-score WHO,numeric,0.1
+HAZ2,Height for age z-score WHO,numeric,0.1
+WAZ2,Weight for age z-score WHO,numeric,0.1
+WHZ2,Weight for height z-score WHO,numeric,0.1
+HAZFLAG,Height for age flag WHO,numeric,0.1
+WAZFLAG,Weight for age flag WHO,numeric,0.1
+WHZFLAG,Weight for height flag WHO,numeric,0.1
+BMIFLAG,BMI flag WHO,numeric,0.1
+WHZNOAGE,Weight for height - Age flag WHO,numeric,0.1
+HH6,Area,numeric,0.0
+HH7,Region,numeric,0.0
+HH7A,District,numeric,0.0
+HL4old,Sex,numeric,75.0
+ED5A,Highest level of education attended,numeric,64.4
+ED5B,Highest grade attended at that level,numeric,64.4
+CDOI,Date of interview child (CMC),numeric,0.0
+CDOB,Date of birth of child (CMC),numeric,0.1
+CAGE,Age (months),numeric,0.1
+CAGE_6,Age,numeric,0.1
+CAGE_11,Age,numeric,0.1
+CAGED,Age in days,numeric,0.1
+UFMINT,Household interviewer number,numeric,100.0
+ethnicity,Ethnicity of household head,numeric,0.0
+wscore,Combined wealth score,numeric,0.0
+windex5,Wealth index quintile,numeric,0.0
+windex10,Percentile Group of com1,numeric,0.0
+wscoreu,Urban wealth score,numeric,71.4
+windex5u,Urban wealth index quintile,numeric,71.4
+windex10u,Percentile Group of urb1,numeric,71.4
+wscorer,Rural wealth score,numeric,28.5
+windex5r,Rural wealth index quintile,numeric,28.5
+windex10r,Percentile Group of rur1,numeric,28.5
+ED10A,Level of education attended current school year,numeric,92.4
+HL4,Sex,numeric,0.0
+mdisability,Mother's disability status,numeric,0.0
+minsurance,Mother's health insurance status,numeric,8.7
+chweight,Children under 5 sample weight,numeric,0.0
+melevel,Mother's education,numeric,0.0
+cinsurance,Health insurance,numeric,0.1
+cdisability,Disability status (age 2-4 years),numeric,39.6
+caretakerdis,Functional difficulties (age 18-49 years),numeric,0.0
+TNLN,Net number,numeric,33.1
+TN3,Mosquito net observed,numeric,33.1
+TN4,Months ago net obtained,numeric,33.1
+TN5,Brand/type of observed net,numeric,33.1
+TN7,Net soaked or dipped since obtained,numeric,94.9
+TN9,Months ago net soaked or dipped,numeric,99.6
+TN10,Way net was obtained,numeric,33.1
+TN12,Place where net was obtained,numeric,59.3
+TN13,Persons slept under mosquito net last night,numeric,33.1
+TN15_1,Person 1 who slept under net,numeric,33.1
+TN15_2,Person 2 who slept under net,numeric,33.1
+TN15_3,Person 3 who slept under net,numeric,33.9
+TN15_4,Person 4 who slept under net,numeric,47.8
+TN15_5,Person 5 who slept under net,numeric,83.1
+TN15_6,Person 6 who slept under net,numeric,97.4
+TN15_7,Person 7 who slept under net,numeric,99.6

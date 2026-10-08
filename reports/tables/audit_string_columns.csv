@@ -1,0 +1,173 @@
+column,label,n_null,n_blank_text,n_extra_spaces,n_unique_nonblank,looks_numeric
+UB10A,Health insurance - Mutual-health organization / Community-based health insurance,0,11633,0,1,False
+UB10B,Health insurance - Health insurance through employer,0,11623,0,1,False
+UB10C,Health insurance - Social security,0,11750,0,1,False
+UB10D,Health insurance - Other privately purchased commercial health insurance,0,11771,0,1,False
+UB10X,Health insurance - Other,0,11649,0,1,False
+UB10NR,Health insurance - No response,0,11774,0,0,False
+EC5AA,Read books - Mother,0,11215,0,2,False
+EC5AB,Read books - Father,0,11404,0,2,False
+EC5AX,Read books - Other,0,11511,0,2,False
+EC5AY,Read books - No one,0,7974,0,2,False
+EC5ANR,Read books - No response,0,11763,0,1,False
+EC5BA,Tell stories - Mother,0,10624,0,3,False
+EC5BB,Tell stories - Father,0,11199,0,3,False
+EC5BX,Tell stories - Other,0,11526,0,2,False
+EC5BY,Tell stories - No one,0,8567,0,2,False
+EC5BNR,Tell stories - No response,0,11766,0,1,False
+EC5CA,Sang songs - Mother,0,10054,0,3,False
+EC5CB,Sang songs - Father,0,11250,0,2,False
+EC5CX,Sang songs - Other,0,11469,0,2,False
+EC5CY,Sang songs - No one,0,9150,0,2,False
+EC5CNR,Sang songs - No response,0,11771,0,1,False
+EC5DA,Took outside - Mother,0,10098,0,2,False
+EC5DB,Took outside - Father,0,10713,0,2,False
+EC5DX,Took outside - Other,0,11389,0,2,False
+EC5DY,Took outside - No one,0,9433,0,2,False
+EC5DNR,Took outside - No response,0,11767,0,1,False
+EC5EA,Played with - Mother,0,9754,0,2,False
+EC5EB,Played with - Father,0,10662,0,2,False
+EC5EX,Played with - Other,0,11056,0,2,False
+EC5EY,Played with - No one,0,9783,0,2,False
+EC5ENR,Played with - No response,0,11769,0,1,False
+EC5FA,Named/counted - Mother,0,11235,0,2,False
+EC5FB,Named/counted - Father,0,11422,0,2,False
+EC5FX,Named/counted - Other,0,11550,0,2,False
+EC5FY,Named/counted - No one,0,7940,0,2,False
+EC5FNR,Named/counted - No response,0,11764,0,1,False
+CA6A,Place sought care: (public sector) Government hospital,0,11648,0,1,False
+CA6B,Place sought care: (public sector) Government health centre,0,11543,0,1,False
+CA6C,Place sought care: (public sector) Government health post,0,11595,0,1,False
+CA6D,Place sought care: Community health worker,0,11734,0,1,False
+CA6E,Place sought care: (public sector) Mobile / Outreach clinic,0,11763,0,1,False
+CA6H,Place sought care: Other public,0,11769,0,1,False
+CA6I,Place sought care: Private hospital / clinic,0,11763,0,1,False
+CA6J,Place sought care: Private physician,0,11772,0,1,False
+CA6K,Place sought care: Private pharmacy,0,11747,0,1,False
+CA6L,Place sought care: Community health worker (Non Government),0,11767,0,1,False
+CA6M,Place sought care: Mobile clinic,0,11768,0,1,False
+CA6O,Place sought care: Other private medical,0,11770,0,1,False
+CA6P,Place sought care: Relative / Friend,0,11754,0,1,False
+CA6Q,Place sought care: Shop / Market / Street,0,11754,0,1,False
+CA6R,Place sought care: Traditional practitioner,0,11748,0,1,False
+CA6X,Place sought care: Other,0,11762,0,1,False
+CA6NR,Place sought care: Missing,0,11774,0,0,False
+CA9A,Place got ORS: (public sector) Government hospital,0,11663,0,2,False
+CA9B,Place got ORS: (public sector) Government health centre,0,11561,0,2,False
+CA9C,Place got ORS: (public sector) Government health post,0,11606,0,2,False
+CA9D,Place got ORS: (public sector) Communityh health worker,0,11730,0,2,False
+CA9E,Place got ORS: (public sector) Mobile / Outreach clinic,0,11759,0,2,False
+CA9H,Place got ORS: Other public,0,11767,0,2,False
+CA9I,Place got ORS: Private hospital / clinic,0,11763,0,2,False
+CA9J,Place got ORS: Private physician,0,11771,0,2,False
+CA9K,Place got ORS: Private pharmacy,0,11708,0,2,False
+CA9L,Place got ORS: Community health worker (Non Government),0,11766,0,2,False
+CA9M,Place got ORS: Mobile clinic,0,11762,0,2,False
+CA9O,Place got ORS: Other private medical,0,11769,0,2,False
+CA9P,Place got ORS: Relative / Friend,0,11750,0,2,False
+CA9Q,Place got ORS: Shop / Market / Street,0,11717,0,2,False
+CA9R,Place got ORS: Traditional practitioner,0,11769,0,2,False
+CA9X,Place got ORS: Other,0,11767,0,2,False
+CA9Z,Place got ORS: DK /Don't remember,0,11773,0,1,False
+CA9NR,Place got ORS: Missing,0,11773,0,1,False
+CA11A,Place got ORS: (public sector) Government hospital,0,11689,0,2,False
+CA11B,Place got ORS: (public sector) Government health centre,0,11619,0,2,False
+CA11C,Place got ORS: (public sector) Government health post,0,11662,0,2,False
+CA11D,Place got ORS: (public sector) Communityh health worker,0,11745,0,2,False
+CA11E,Place got ORS: (public sector) Mobile / Outreach clinic,0,11771,0,2,False
+CA11H,Place got ORS: Other public,0,11773,0,1,False
+CA11I,Place got ORS: Private hospital / clinic,0,11767,0,2,False
+CA11J,Place got ORS: Private physician,0,11770,0,2,False
+CA11K,Place got ORS: Private pharmacy,0,11746,0,2,False
+CA11L,Place got ORS: Community health worker (Non Government),0,11768,0,2,False
+CA11M,Place got ORS: Mobile clinic,0,11768,0,2,False
+CA11O,Place got ORS: Other private medical,0,11771,0,2,False
+CA11P,Place got ORS: Relative / Friend,0,11764,0,2,False
+CA11Q,Place got ORS: Shop / Market / Street,0,11748,0,2,False
+CA11R,Place got ORS: Traditional practitioner,0,11772,0,2,False
+CA11X,Place got ORS: Other,0,11772,0,2,False
+CA11Z,Place got ORS: DK /Don't remember,0,11773,0,1,False
+CA11NR,Place got ORS: Missing,0,11773,0,1,False
+CA13A,Other treatment: (Pill or Syrup) Antibiotic,0,11671,0,2,False
+CA13B,Other treatment (pill or syrup): Antimotility (anti-diarrhoea),0,11668,0,2,False
+CA13G,Other treatment (pill or syrup): Other pill or syrup,0,11714,0,2,False
+CA13H,Other treatment (pill or syrup): Unknown pill or syrup,0,11722,0,2,False
+CA13L,Other treatment (injection): Antibiotic,0,11752,0,2,False
+CA13M,Other treatment (injection): Non-antibiotic,0,11769,0,2,False
+CA13N,Other treatment (injection): Unknown injection,0,11751,0,2,False
+CA13O,Other treatment: Intravenous (IV),0,11767,0,2,False
+CA13Q,Other treatment: Home remedy / Herbal medicine,0,11713,0,2,False
+CA13X,Other treatment: Other,0,11709,0,2,False
+CA13NR,Other treatment: Missing,0,11772,0,1,False
+CA21A,Place sought care: (public sector) Government hospital,0,11440,0,1,False
+CA21B,Place sought care: (public sector) Government health centre,0,11150,0,1,False
+CA21C,Place sought care: (public sector) Government health post,0,11237,0,1,False
+CA21D,Place sought care: (public sector) Community health worker (Non Government),0,11672,0,1,False
+CA21E,Place sought care: (public sector) Mobile / Outreach clinic,0,11741,0,1,False
+CA21H,Place sought care: Other public,0,11759,0,1,False
+CA21I,Place sought care: Private hospital / clinic,0,11715,0,1,False
+CA21J,Place sought care: Private physician,0,11752,0,1,False
+CA21K,Place sought care: Private pharmacy,0,11694,0,1,False
+CA21L,Place sought care: Community health worker (Non Government),0,11758,0,1,False
+CA21M,Place sought care: Mobile clinic,0,11754,0,1,False
+CA21O,Place sought care: Other private medical,0,11766,0,1,False
+CA21P,Place sought care: Relative / Friend,0,11728,0,1,False
+CA21Q,Place sought care: Shop / Market / Street,0,11705,0,1,False
+CA21R,Place sought care: Traditional practitioner,0,11744,0,1,False
+CA21X,Place sought care: Other,0,11754,0,1,False
+CA21NR,Place sought care: Missing,0,11774,0,0,False
+CA23A,Medicine: Anti-Malarials: Artemisinin combination therapy (ACT),0,11403,0,1,False
+CA23B,Medicine: Anti-Malarials: SP / Fansidar,0,11403,0,1,False
+CA23C,Medicine: Anti-Malarials: Chloroquine,0,11403,0,1,False
+CA23D,Medicine: Anti-Malarials: Amodiaquine,0,11403,0,1,False
+CA23E,Medicine: Anti-Malarials: Quinine pills,0,11403,0,1,False
+CA23F,Medicine: Anti-Malarials: Quinine injection / IV,0,11403,0,1,False
+CA23G,Medicine: Anti-Malarials: Artesunate rectal,0,11403,0,1,False
+CA23H,Medicine: Anti-Malarials: Artesunate injection / IV,0,11403,0,1,False
+CA23K,Medicine: Anti-Malarials: Other anti-malarial,0,11403,0,1,False
+CA23L,Medicine: Antibiotics: Amoxicillin,0,11403,0,1,False
+CA23M,Medicine: Antibiotics: Cotrimoxazole,0,11549,0,1,False
+CA23N,Medicine: Antibiotics: Other antibiotic pill / syrup,0,11691,0,1,False
+CA23O,Medicine: Antibiotics: Other antibiotic injection / IV,0,11476,0,1,False
+CA23R,Medicine: Paracetamol / Panadol / Acetaminophen,0,11747,0,1,False
+CA23S,Medicine: Aspirin,0,11723,0,1,False
+CA23T,Medicine: Ibupropfen,0,11689,0,1,False
+CA23X,Medicine: Other,0,11728,0,1,False
+CA23Z,Medicine: DK,0,11593,0,1,False
+CA23NR,Medicine: Missing,0,11232,0,1,False
+CA25A,Place got antibiotics:(public sector) Government hospital,0,11603,0,1,False
+CA25B,Place got antibiotics: (public sector) Government health centre,0,11445,0,1,False
+CA25C,Place got antibiotics: (public sector) Government health post,0,11536,0,1,False
+CA25D,Place got antibiotics: (public sector) Community health worker (Non Government),0,11737,0,1,False
+CA25E,Place got antibiotics: (public sector) Mobile / Outreach clinic,0,11753,0,1,False
+CA25H,Place got antibiotics: Other public,0,11764,0,1,False
+CA25I,Place got antibiotics: Private hospital / clinic,0,11739,0,1,False
+CA25J,Place got antibiotics: Private physician,0,11759,0,1,False
+CA25K,Place got antibiotics: Private pharmacy,0,11676,0,1,False
+CA25L,Place got antibiotics: Community health worker (Non Government),0,11762,0,1,False
+CA25M,Place got antibiotics: Mobile clinic,0,11764,0,1,False
+CA25O,Place got antibiotics: Other private medical,0,11771,0,1,False
+CA25P,Place got antibiotics: Relative / Friend,0,11745,0,1,False
+CA25Q,Place got antibiotics: Shop / Market / Street,0,11702,0,1,False
+CA25R,Place got antibiotics: Traditional practitioner,0,11774,0,0,False
+CA25X,Place got antibiotics: Other,0,11770,0,1,False
+CA25Z,Place got antibiotics: DK / Don't remember,0,11772,0,1,False
+CA25NR,Place got antibiotics: Missing,0,11774,0,0,False
+CA27A,Place got anti-malarials:(public sector) Government hospital,0,11580,0,1,False
+CA27B,Place got anti-malarials: (public sector) Government health centre,0,11384,0,1,False
+CA27C,Place got anti-malarials: (public sector) Government health post,0,11401,0,1,False
+CA27D,Place got anti-malarials: (public sector) Community health worker (Non Government),0,11727,0,1,False
+CA27E,Place got anti-malarials: (public sector) Mobile / Outreach clinic,0,11756,0,1,False
+CA27H,Place got anti-malarials: Other public,0,11764,0,1,False
+CA27I,Place got anti-malarials: Private hospital / clinic,0,11734,0,1,False
+CA27J,Place got anti-malarials: Private physician,0,11765,0,1,False
+CA27K,Place got anti-malarials: Private pharmacy,0,11707,0,1,False
+CA27L,Place got anti-malarials: Community health worker (Non Government),0,11761,0,1,False
+CA27M,Place got anti-malarials: Mobile clinic,0,11768,0,1,False
+CA27O,Place got anti-malarials: Other private medical,0,11767,0,1,False
+CA27P,Place got anti-malarials: Relative / Friend,0,11757,0,1,False
+CA27Q,Place got anti-malarials: Shop / Market / Street,0,11745,0,1,False
+CA27R,Place got anti-malarials: Traditional practitioner,0,11771,0,1,False
+CA27X,Place got anti-malarials: Other,0,11764,0,1,False
+CA27Z,Place got anti-malarials: DK / Don't remember,0,11764,0,1,False
+CA27NR,Place got anti-malarials: Missing,0,11774,0,0,False

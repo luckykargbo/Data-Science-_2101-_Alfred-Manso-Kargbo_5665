@@ -1,0 +1,11 @@
+metric,raw_before,cleaned_after
+Rows,11774.0,11764.0
+Columns,456.0,22.0
+Zero-weight records,10.0,0.0
+Missing BR1,10.0,0.0
+Missing district,1.0,0.0
+windex5 = 0 placeholder,10.0,0.0
+Registration status Unknown,168.0,158.0
+"Registration rate, known status, unweighted %",81.9,81.9
+"Registration rate, known status, weighted %",82.1,82.1
+Districts present,14.0,14.0
